@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.bak
+
+# Unobfuscated Source Files (Keep Private)
+เบสบอล.lua
+อาร์เซนอล.lua
+index.py
