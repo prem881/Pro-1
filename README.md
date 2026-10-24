@@ -18,4 +18,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/prem881/Pro-1/main/ob
 - **High-Speed Emergency Interceptor**: Intercepts high-speed balls (150 - 400+ studs/s) before latency desync
 - **3D Ground Visualizer**: High-visibility Neon range circles with razor-sharp Always-On-Top outline
 - **Custom Camera FOV**: Adjustable field of view (70 - 120) with anti-reset lock
+- **Anti-Kick & Anti-Cheat Bypass**: Intercepts and blocks client-side kick attempts & BAC detection remotes
+- **Anti-AFK Protection**: Prevents the 20-minute Roblox inactivity kick
+- **Auto-Rejoin System**: Automatically reconnects to the server upon disconnection
 - **Anti-Delay & Ping Compensation**: Real-time network compensation for zero-latency gameplay
